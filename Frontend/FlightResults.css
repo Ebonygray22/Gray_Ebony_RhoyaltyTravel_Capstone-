@@ -1,0 +1,27 @@
+.flight-results {
+    margin: 2rem 0;
+  }
+  
+  .flight-card {
+    background-color: #FFFFFF;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .price {
+    color: #E50914;
+  }
+  
+  .book-button {
+    background-color: #E50914;
+    color: #FFFFFF;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  .book-button:hover {
+    background-color: #D40812;
+  }
+  

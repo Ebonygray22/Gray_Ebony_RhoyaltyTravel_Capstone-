@@ -1,0 +1,19 @@
+[
+    {
+      "origin": "New York",
+      "destination": "Los Angeles",
+      "date": "2024-08-15",
+      "airline": "Delta",
+      "price": 300,
+      "logo": "delta.png"
+    },
+    {
+      "origin": "Chicago",
+      "destination": "Miami",
+      "date": "2024-08-15",
+      "airline": "United",
+      "price": 200,
+      "logo": "united.png"
+    }
+  ]
+  
